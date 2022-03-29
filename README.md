@@ -11,6 +11,6 @@ curl 'https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/<clave_data_
 
 Donde:
  - `clave_data_set` es el identificador del dataset. Ejemplo `NRG_PC_202_C` corresponde a [Gas prices components for household consumers - annual data
-]|(https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202_c/default/table?lang=en)
+](https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202_c/default/table?lang=en)
 
 
