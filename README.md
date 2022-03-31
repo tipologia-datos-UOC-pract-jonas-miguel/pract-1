@@ -14,3 +14,10 @@ Donde:
 ](https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202_c/default/table?lang=en)
 
 
+## Ejemplo de petición custom
+
+```
+curl  --compressed  'https://ec.europa.eu/eurostat/databrowser-backend/api/extraction/1.0/LIVE/false/tsv/NRG_PC_204_C__custom_2388428?i'  | gunzip -
+```
+
+
