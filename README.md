@@ -30,7 +30,6 @@ El notebook principal se encuentra en el directorio
  - [`subdataset/data_electricity_prices_no_household_consumers.csv`](subdataset/data_electricity_prices_no_household_consumers.csv): Precio de la electricidad para empresas.
  - [`subdataset/data_gas_prices_household_consumers.csv`](subdataset/data_gas_prices_household_consumers.csv) Precios del gas para consumidores.
  - [`subdataset/data_gas_prices_no_household_consumers.csv`](subdataset/data_gas_prices_no_household_consumers.csv) Precios del gas para empresas.
-=======
  - [`subdataset/data_electricity_prices_household_consumers.csv`](subdataset/data_electricity_prices_household_consumers.csv): Precio de la electricidad de los países europeos para consumidores para la banda de consumo entre  2.500 a 4.999 kWh 
  - [`subdataset/data_electricity_prices_no_household_consumers.csv`](subdataset/data_electricity_prices_no_household_consumers.csv): Precio de la electricidad de los países europeos para empresas.
  - [`subdataset/data_gas_prices_household_consumers.csv`](subdataset/data_gas_prices_household_consumers.csv) Precios del gas de los países europeos para consumidores.
