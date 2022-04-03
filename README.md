@@ -25,7 +25,7 @@ El notebook principal se encuentra en el directorio
  
  Los dataset que se han utilizado para crear el dataset principal se localizan en el directorio [`subdataset`](./subdataset)
  
-<<<<<<< Updated upstream
+
  - [`subdataset/data_electricity_prices_household_consumers.csv`](subdataset/data_electricity_prices_household_consumers.csv): Precio de la electricidad para consumidores para la banda de consumo entre  2.500 a 4.999 kWh 
  - [`subdataset/data_electricity_prices_no_household_consumers.csv`](subdataset/data_electricity_prices_no_household_consumers.csv): Precio de la electricidad para empresas.
  - [`subdataset/data_gas_prices_household_consumers.csv`](subdataset/data_gas_prices_household_consumers.csv) Precios del gas para consumidores.
@@ -35,7 +35,7 @@ El notebook principal se encuentra en el directorio
  - [`subdataset/data_electricity_prices_no_household_consumers.csv`](subdataset/data_electricity_prices_no_household_consumers.csv): Precio de la electricidad de los países europeos para empresas.
  - [`subdataset/data_gas_prices_household_consumers.csv`](subdataset/data_gas_prices_household_consumers.csv) Precios del gas de los países europeos para consumidores.
  - [`subdataset/data_gas_prices_no_household_consumers.csv`](subdataset/data_gas_prices_no_household_consumers.csv) Precios del gas de los países europeos para empresas. 
->>>>>>> Stashed changes
+
  
 ## DOI de Zenodo
 
