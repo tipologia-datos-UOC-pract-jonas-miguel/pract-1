@@ -19,9 +19,16 @@ La extración como para el proceso y curación de los datos, así como su repres
 
 Con respecto a como ejecutar el notebook utilizando [docker](https://www.docker.com/), se puede consultar en este [documento](doc/install/docker.md)
 
-El notebook principal se encuntra en el directorio
+El notebook principal se encuentra en el directorio
 
  - [`notebook/pract-1.ipynb`](notebook/pract-1.ipynb)
+ 
+ Los dataset que se han utilizado para crear el dataset principal se localizan en el directorio [`subdataset`](./subdataset)
+ 
+ - [`subdataset/data_electricity_prices_household_consumers.csv`](subdataset/data_electricity_prices_household_consumers.csv): Precio de la electricidad para consumidores para la banda de consumo entre  2.500 a 4.999 kWh 
+ - [`subdataset/data_electricity_prices_no_household_consumers.csv`](subdataset/data_electricity_prices_no_household_consumers.csv): Precio de la electricidad para empresas.
+ - [`subdataset/data_gas_prices_household_consumers.csv`](subdataset/data_gas_prices_household_consumers.csv) Precios del gas para consumidores.
+ - [`subdataset/data_gas_prices_no_household_consumers.csv`](subdataset/data_gas_prices_no_household_consumers.csv) Precios del gas para empresas.
  
 ## DOI de Zenodo
 
