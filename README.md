@@ -1,31 +1,41 @@
-﻿# Práctica I
 
-Práctica 1. En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar herramientas de extracción de datos.
+# Práctica I
 
+Práctica 1 de la asignatura de Tipólogía y ciclo de vida de los datos, primer semestre de 2022. 
 
-## Arranque del docker
-
-Para esta práctica se usa una imagen de docker para data science `jupyter/scipy-notebook`  Para arrancar el docker se utiliza la utilidad `docker-compose`. Para arrancar:
-
-```[shell]
-
-# docker-compose up
-
-```
-
-Después del arranque por consola ofrece una ruta del tipo `http://9f6f26c2d0e3:8888/lab?token=e2c874bc5027f5841441fda4dc8fd7081393bdf1792491fb`
+En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar herramientas de extracción de datos.
 
 
 
-## Ejemplo de petición custom
+## Componentes de la práctica
 
-```[shell]
-$ curl   'https://ec.europa.eu/eurostat/databrowser-backend/api/extraction/1.0/LIVE/false/tsv/<clave_data_set>?i'  | gunzip -
+ - Jonás Medina Brito (jmedinabrit@uoc.edu)
+ - Miguel Rafael Esteban Martín (mestebanmart@uoc.edu)
+ 
+ 
+## Descripción de los ficheros fuente
 
-```
+La extración como para el proceso y curación de los datos, así como su representación se ha realizado gracias a un notebook de [jupyter)](https://jupyter.org/)
 
-Donde:
- - `clave_data_set` es el identificador del dataset. Ejemplo `NRG_PC_204_C__custom_2388428` 
+Con respecto a como ejecutar el notebook utilizando [docker](https://www.docker.com/), se puede consultar en este [documento](doc/install/docker.md)
+
+El notebook principal se encuentra en el directorio
+
+ - [`notebook/pract-1.ipynb`](notebook/pract-1.ipynb)
+ 
+ Los dataset que se han utilizado para crear el dataset principal se localizan en el directorio [`subdataset`](./subdataset)
+ 
+ - [`subdataset/data_electricity_prices_household_consumers.csv`](subdataset/data_electricity_prices_household_consumers.csv): Precio de la electricidad para consumidores para la banda de consumo entre  2.500 a 4.999 kWh 
+ - [`subdataset/data_electricity_prices_no_household_consumers.csv`](subdataset/data_electricity_prices_no_household_consumers.csv): Precio de la electricidad para empresas.
+ - [`subdataset/data_gas_prices_household_consumers.csv`](subdataset/data_gas_prices_household_consumers.csv) Precios del gas para consumidores.
+ - [`subdataset/data_gas_prices_no_household_consumers.csv`](subdataset/data_gas_prices_no_household_consumers.csv) Precios del gas para empresas.
+ 
+## DOI de Zenodo
+
+> _TODO_
+
+
+
 
 
 
