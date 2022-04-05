@@ -19,7 +19,7 @@ La extración como para el proceso y curación de los datos, así como su repres
 
 Con respecto a como ejecutar el notebook utilizando [docker](https://www.docker.com/), se puede consultar en este [documento](doc/install/docker.md)
 
-El notebook principal se encuentra en el directorio
+El notebook con el código se encuentra en el directorio
 
  - [`notebook/pract-1.ipynb`](notebook/pract-1.ipynb)
  
@@ -34,6 +34,10 @@ El notebook principal se encuentra en el directorio
  - [`subdataset/data_electricity_prices_no_household_consumers.csv`](subdataset/data_electricity_prices_no_household_consumers.csv): Precio de la electricidad de los países europeos para empresas.
  - [`subdataset/data_gas_prices_household_consumers.csv`](subdataset/data_gas_prices_household_consumers.csv) Precios del gas de los países europeos para consumidores.
  - [`subdataset/data_gas_prices_no_household_consumers.csv`](subdataset/data_gas_prices_no_household_consumers.csv) Precios del gas de los países europeos para empresas. 
+ 
+ ### Dataset 
+ 
+ La exportación del dataset principal se localiza en la ruta  [`dataset/dataaset.csv`](./dataset/dataaset.csv)
 
  
 ## DOI de Zenodo
