@@ -37,7 +37,7 @@ El notebook con el código se encuentra en el directorio
  
  ### Dataset 
  
- La exportación del dataset principal se localiza en la ruta  [`dataset/dataaset.csv`](./dataset/dataaset.csv)
+ La exportación del dataset principal se localiza en la ruta  [`dataset/dataset.csv`](./dataset/dataset.csv)
 
  
 ## DOI de Zenodo
