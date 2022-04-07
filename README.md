@@ -25,10 +25,10 @@ El notebook con el código se encuentra en el directorio
  
  Los dataset que se han utilizado para crear el dataset principal se localizan en el directorio [`subdataset`](./subdataset)
  
- - [`subdataset/data_gas_prices_household_consumers.csv`](subdataset/data_gas_prices_household_consumers.csv) Precios del gas para consumidores domésticos.
- - [`subdataset/data_gas_prices_no_household_consumers.csv`](subdataset/data_gas_prices_no_household_consumers.csv) Precios del gas para empresas. 
- - [`subdataset/data_electricity_prices_household_consumers.csv`](subdataset/data_electricity_prices_household_consumers.csv): Precio de la electricidad de los países europeos para consumidores domésticos para la banda de consumo entre  2.500 a 4.999 kWh 
- - [`subdataset/data_electricity_prices_no_household_consumers.csv`](subdataset/data_electricity_prices_no_household_consumers.csv): Precio de la electricidad de los países europeos para empresas. 
+ - [`subdataset/data_gas_prices_household_consumers.csv`](subdataset/data_gas_prices_household_consumers.csv) Precios del gas (Euro/kWh) para consumidores domésticos.
+ - [`subdataset/data_gas_prices_no_household_consumers.csv`](subdataset/data_gas_prices_no_household_consumers.csv) Precios del gas (Euro/kWh) para empresas. 
+ - [`subdataset/data_electricity_prices_household_consumers.csv`](subdataset/data_electricity_prices_household_consumers.csv): Precio de la electricidad (Euro/kWh) de los países europeos para consumidores domésticos para la banda de consumo entre  2.500 a 4.999 kWh 
+ - [`subdataset/data_electricity_prices_no_household_consumers.csv`](subdataset/data_electricity_prices_no_household_consumers.csv): Precio de la electricidad  (Euro/kWh) de los países europeos para empresas para la banda de consumo de menos de 20 MWh. 
  
  ### Dataset 
  
