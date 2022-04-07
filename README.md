@@ -15,11 +15,11 @@ En esta práctica se elabora un caso práctico orientado a aprender a identifica
 
 La guía de la práctica se encuentra en la siguiente ruta:
 
- - [**`doc/doc-pract-1.pdf`**](doc/doc-pract-1.pdf). Los fuentes de este documento es el notebook de jupyter [notebook/doc-pract-1.ipynb](notebook/doc-pract-1.ipynb)
+ - [**`doc/doc-pract-1.pdf`**](doc/doc-pract-1.pdf). Los fuentes de este documento es el notebook de jupyter [`notebook/doc-pract-1.ipynb`](notebook/doc-pract-1.ipynb)
 
 ## Descripción de los ficheros fuente
 
-La extración como para el proceso y curación de los datos, así como su representación se ha realizado gracias a un notebook de [jupyter)](https://jupyter.org/)
+La extración como para el proceso y curación de los datos, así como su representación se ha realizado gracias a un notebook de [jupyter](https://jupyter.org/)
 
 Con respecto a como ejecutar el notebook utilizando [docker](https://www.docker.com/), se puede consultar en este [documento](doc/install/docker.md)
 
