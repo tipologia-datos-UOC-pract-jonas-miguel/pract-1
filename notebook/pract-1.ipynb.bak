@@ -4124,7 +4124,7 @@
    "source": [
     "export_dataframe( \n",
     "    df = dEnergyCol, \n",
-    "    file_name = 'EnergyPriceDataSet', \n",
+    "    file_name = 'dataset', \n",
     "    directory = 'dataset' \n",
     ") "
    ]
@@ -4543,6 +4543,14 @@
    "source": [
     "Alemania mantiene constante practicamente su coste de Gas igual en los últimos 4 años, España marca máximo histórico en Gas y su segundo máximo en Electricidad, teniendo una varianza reseñable anual en los precios. Reino Unido tiene el precio más bajo en Electricidad y Gas de los últimos 4 años."
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f22ce6b8-1427-4298-b5e7-cd2730a2d3fe",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
