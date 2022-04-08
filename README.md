@@ -39,10 +39,11 @@ El notebook con el código se encuentra en el directorio
  La exportación del dataset principal se localiza en la ruta  [`dataset/energy_price_dataset.csv`](./dataset/energy_price_dataset.csv)
 
  
-## DOI de Zenodo
+## DOI del dataet en Zenodo
 
-> _TODO_
+DOI: **`10.5281/zenodo.6424152`**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6424152.svg)](https://doi.org/10.5281/zenodo.6424152)
 
 
 
