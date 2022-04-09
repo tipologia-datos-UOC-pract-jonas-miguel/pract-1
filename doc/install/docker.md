@@ -23,4 +23,4 @@ Utilizar un navegador para acceder al notebook
 
 ---
 
-[Readme principal](/)
+[Readme principal](../../README.md)
